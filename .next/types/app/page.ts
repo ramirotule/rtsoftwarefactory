@@ -1,4 +1,4 @@
-// File: /Users/ramirotule/Documents/1.Proyectos/Personales/fluxIA/app/page.tsx
+// File: /Users/ramirotule/Documents/1.Proyectos/RTSoftwareFactory/rtSoftwareFactoryWeb/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
